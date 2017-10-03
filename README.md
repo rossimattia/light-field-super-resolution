@@ -2,7 +2,7 @@
 This MATLAB code implements the Graph-Based Light Field Super-Resolution framework described in [1][2].
 
 The author of the code is:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mattia Rossi [email](rossi.mattia@gmail.com)*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mattia Rossi ([email](rossi.mattia@gmail.com))*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Signal Processing Laboratory 4 (LTS4)*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Ecole Polytechnique Federale de Lausanne (Switzerland)*
 
