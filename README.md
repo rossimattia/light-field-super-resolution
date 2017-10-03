@@ -12,11 +12,13 @@ This code is for academic purpose only: not for commercial or industrial activit
 
 ## How to run the code
 
+No installation is required. Just download the repository, copy it inside your MATLAB workspace, and follow the three steps below.
+
 1. The Heidelberg and Stanford light field dataset that are mentioned in our articles [1][2] are provided (by their respective creators) with different file formats and reference systems. Download the two light field dataset and then run the script importdata.m to convert all the light fields to the same format and reference system. Please note that the two dataset have to be downloaded from their respective websites (references to the two datasets are provided in [1][2]).
 
-2. Run the script testdata.m to generate the low resolution light fields from the data generated at the previous point 1.
+2. Run the script testdata.m to generate the low resolution light fields from the data generated at the previous point.
 
-3. Run the script GBtest.m to apply our Graph-Based (GB) Super-Resolution algorithm to the low resolution light fields generated at the previous point 2. The script GBtest.m allows the user to play with the parameters of the super-resolution algorithm. Since each low resolution light field is decomposed into sub light fields that are super-resolved separately and merged at the very final step, in GBtest.m it is also possible to activate the parallel reconstruction, that takes advantage of the MATLAB parfor.
+3. Run the script GBtest.m to apply our Graph-Based (GB) Super-Resolution algorithm to the low resolution light fields generated at the previous point. The script GBtest.m allows the user to play with the parameters of the super-resolution algorithm. Since each low resolution light field is decomposed into sub light fields that are super-resolved separately and merged at the very final step, in GBtest.m it is also possible to activate the parallel reconstruction, that takes advantage of the MATLAB parfor.
 
 ## Input light field conventions
 
