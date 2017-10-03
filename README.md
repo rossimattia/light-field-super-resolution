@@ -6,7 +6,7 @@ Mattia Rossi (rossi.mattia@gmail.com)
 Signal Processing Laboratory 4 (LTS4)  
 Ecole Polytechnique Federale de Lausanne (Switzerland)
 
-If you use or adapt this code in your work (either as a stand-alone tool or as a component of any algorithm), you need to cite the appropriate articles [1],[2].  
+If you use or adapt this code in your work (either as a stand-alone tool or as a component of any algorithm), you need to cite the appropriate articles [1][2].  
 This code is for academic purpose only: not for commercial or industrial activities.
 
 ## How to run the code
