@@ -18,7 +18,7 @@ No installation is required. Just download the repository, copy it inside your M
 
 2. Run the script `testdata.m` to generate the low resolution light fields from the data generated at the previous point.
 
-3. Run the script `GBtest.m` to apply our Graph-Based (GB) Super-Resolution algorithm to the low resolution light fields generated at the previous point. The script GBtest.m allows the user to play with the parameters of the super-resolution algorithm. Since each low resolution light field is decomposed into sub light fields that are super-resolved separately and merged at the very final step, in GBtest.m it is also possible to activate the parallel reconstruction, that takes advantage of the MATLAB parfor.
+3. Run the script `GBtest.m` to apply our Graph-Based (GB) Super-Resolution algorithm to the low resolution light fields generated at the previous point. The script `GBtest.m` allows the user to play with the parameters of the super-resolution algorithm. Since each low resolution light field is decomposed into sub light fields that are super-resolved separately and merged at the very final step, in GBtest.m it is also possible to activate the parallel reconstruction, that takes advantage of the MATLAB parfor.
 
 ## Input light field conventions
 
