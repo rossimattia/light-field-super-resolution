@@ -22,7 +22,7 @@ No installation is required. Just download the repository, copy it inside your M
 
 ## Input light field conventions
 
-In the case the user wants to input its own light field, this MUST be stored in a MATLAB 2D cell array. Each entry of the cell array must be a light field view, in particular, the view must be an RGB image stored as a `height * width * 3` MATLAB matrix of type uint8.
+In the case the user wants to input its own light field, this MUST be stored in a MATLAB 2D cell array. Each entry of the cell array must be a light field view, in particular, the view must be an RGB image stored as a `height * width * 3` MATLAB matrix of type `uint8`.
 Regarding the view order, the following convention is adopted:
 - moving along a row of the cell array from left to right must be equivalent to move the camera horizontally from left to right in the 3D scene,
 - moving along a column of the cell array from the top to the bottom must be equivalent to move the camera vertically from the top to the bottom in 3D the scene.
