@@ -34,4 +34,4 @@ In our code, the `(s,t)` angular reference system has its origin in the top left
 ## Reference
 [1] Mattia Rossi and Pascal Frossard, *Graph-Based Light Field Super-Resolution*, in 19th IEEE International Workshop on Multimedia Signal Processing, 2017.
 
-[2] Mattia Rossi and Pascal Frossard, *Light Field Super-Resolution Via Graph-Based Regularization*, in preparation, CoRR, 2017, [Available online]: http://arxiv.org/abs/1701.02141.
+[2] Mattia Rossi and Pascal Frossard, *Geometry-Consistent Light Field Super-Resolution Via Graph-Based Regularization*, IEEE Transactions on Image Processing, vol. 27, no. 9, pp. 4207-4218, Sep. 2018.
